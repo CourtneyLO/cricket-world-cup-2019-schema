@@ -1,0 +1,42 @@
+[
+	{
+		"name": "England",
+		"flag": "http://www.flags.net/images/largeflags/UNKG0100.GIF"
+	},
+	{
+		"name": "South Africa",
+		"flag": "http://flags.fmcdn.net/data/flags/w1160/za.png"
+	},
+	{
+		"name": "India",
+		"flag": "http://flags.fmcdn.net/data/flags/w1160/in.png"
+	},
+	{
+		"name": "Australia",
+		"flag": "http://flags.fmcdn.net/data/flags/w1160/au.png"
+	},
+	{
+		"name": "New Zealand",
+		"flag": "http://flags.fmcdn.net/data/flags/w1160/nz.png"
+	},
+	{
+		"name": "Pakistan",
+		"flag": "http://flags.fmcdn.net/data/flags/w1160/pk.png"
+	},
+	{
+		"name": "Bangladesh",
+		"flag": "http://flags.fmcdn.net/data/flags/w1160/bd.png"
+	},
+	{
+		"name": "Sri Lanka",
+		"flag": "http://flags.fmcdn.net/data/flags/w1160/lk.png"
+	},
+	{
+		"name": "Afghanistan",
+		"flag": "http://flags.fmcdn.net/data/flags/w1160/af.png"
+	},
+	{
+		"name": "West Indies",
+		"flag": "https://www.warstore.co.uk/ekmps/shops/marlina/images/west-indies-cricket-5-x-3-flag-8166-p.jpg"
+	}
+]
