@@ -3,7 +3,7 @@ const { writeToFile } = require('../lib/write-to-file')
 const getOpposition = (teamName, fixtures, teamList) => {
 
 	return fixtures.reduce((allMatches, fixture) => {
-	 	const match =  Object.values(fixture.games).find((match) => {
+		const match = Object.values(fixture.games).find((match) => {
 			return match.teams.includes(teamName);
 		});
 
@@ -29,7 +29,7 @@ const getOpposition = (teamName, fixtures, teamList) => {
 };
 
 const teamFixtures = (teamList, fixtures, path) => {
-	const allFixtures =  teamList.map(team => {
+	const allFixtures = teamList.map(team => {
 		return Object.assign({}, {
 			name: team.name,
 			flag: team.flag,
