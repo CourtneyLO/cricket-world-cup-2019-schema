@@ -1,15 +1,15 @@
 const { writeToFile } = require('../lib/write-to-file');
 
 const getGames = games => {
-	return Object.entries(games).reduce((object,[timeOfDay, game]) => {
-		object[`${timeOfDay}`] = Object.assign({}, {
+	return Object.entries(games).reduce((match,[timeOfDay, game]) => {
+		match[`${timeOfDay}`] = Object.assign({}, {
 			time: game.time,
 			teams: game.teams,
 			ground: game.ground,
 			location: game.location
 		});
 
-		return object;
+		return match;
 	}, {});
 };
 
