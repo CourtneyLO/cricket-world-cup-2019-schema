@@ -1,8 +1,8 @@
 {
-  "name": "cricket-world-cup",
+  "name": "cricket-world-cup-schema",
   "version": "1.0.0",
   "description": "All you need to know about the cricket world cup 2019",
-  "main": "app.js",
+  "main": "index.js",
   "directories": {
     "lib": "lib",
     "test": "test"
