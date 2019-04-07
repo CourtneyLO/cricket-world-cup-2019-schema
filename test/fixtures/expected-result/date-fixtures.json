@@ -1,0 +1,679 @@
+[
+  {
+    "date": "30 May 2019",
+    "numberOfMatches": 1,
+    "games": {
+      "morning": {
+        "time": "10:30",
+        "teams": [
+          "England",
+          "South Africa"
+        ],
+        "ground": "The Oval",
+        "location": "London"
+      }
+    }
+  },
+  {
+    "date": "31 May 2019",
+    "numberOfMatches": 1,
+    "games": {
+      "morning": {
+        "time": "10:30",
+        "teams": [
+          "West Indies",
+          "Pakistan"
+        ],
+        "ground": "Trent Bridge",
+        "location": "Nottingham"
+      }
+    }
+  },
+  {
+    "date": "1 June 2019",
+    "numberOfMatches": 2,
+    "games": {
+      "morning": {
+        "time": "10:30",
+        "teams": [
+          "New Zealand",
+          "Sri Lanka"
+        ],
+        "ground": "Sophia Gardens",
+        "location": "Cardiff"
+      },
+      "afternoon": {
+        "time": "13:30",
+        "teams": [
+          "Afghanistan",
+          "Australia"
+        ],
+        "ground": "Bristol County Ground",
+        "location": "Bristol"
+      }
+    }
+  },
+  {
+    "date": "2 June 2019",
+    "numberOfMatches": 1,
+    "games": {
+      "morning": {
+        "time": "10:30",
+        "teams": [
+          "South Africa",
+          "Bangladesh"
+        ],
+        "ground": "The Oval",
+        "location": "London"
+      }
+    }
+  },
+  {
+    "date": "3 June 2019",
+    "numberOfMatches": 1,
+    "games": {
+      "morning": {
+        "time": "10:30",
+        "teams": [
+          "England",
+          "Pakistan"
+        ],
+        "ground": "Trent Bridge",
+        "location": "Nottingham"
+      }
+    }
+  },
+  {
+    "date": "4 June 2019",
+    "numberOfMatches": 1,
+    "games": {
+      "morning": {
+        "time": "10:30",
+        "teams": [
+          "Afghanistan",
+          "Sri Lanka"
+        ],
+        "ground": "Sophia Gardens",
+        "location": "Cardiff"
+      }
+    }
+  },
+  {
+    "date": "5 June 2019",
+    "numberOfMatches": 2,
+    "games": {
+      "morning": {
+        "time": "10:30",
+        "teams": [
+          "South Africa",
+          "India"
+        ],
+        "ground": "Rose Bowl",
+        "location": "Southampton"
+      },
+      "afternoon": {
+        "time": "13:30",
+        "teams": [
+          "Bangladesh",
+          "New Zealand"
+        ],
+        "ground": "The Oval",
+        "location": "London"
+      }
+    }
+  },
+  {
+    "date": "6 June 2019",
+    "numberOfMatches": 1,
+    "games": {
+      "morning": {
+        "time": "10:30",
+        "teams": [
+          "Australia",
+          "West Indies"
+        ],
+        "ground": "Trent Bridge",
+        "location": "Nottingham"
+      }
+    }
+  },
+  {
+    "date": "7 June 2019",
+    "numberOfMatches": 1,
+    "games": {
+      "morning": {
+        "time": "10:30",
+        "teams": [
+          "Pakistan",
+          "Sri Lanka"
+        ],
+        "ground": "Bristol County Ground",
+        "location": "Bristol"
+      }
+    }
+  },
+  {
+    "date": "8 June 2019",
+    "numberOfMatches": 2,
+    "games": {
+      "morning": {
+        "time": "10:30",
+        "teams": [
+          "England",
+          "Bangladesh"
+        ],
+        "ground": "Sophia Gardens",
+        "location": "Cardiff"
+      },
+      "afternoon": {
+        "time": "13:30",
+        "teams": [
+          "Afghanistan",
+          "New Zealand"
+        ],
+        "ground": "County Ground",
+        "location": "Taunton, Somerset"
+      }
+    }
+  },
+  {
+    "date": "9 June 2019",
+    "numberOfMatches": 1,
+    "games": {
+      "morning": {
+        "time": "10:30",
+        "teams": [
+          "India",
+          "Australia"
+        ],
+        "ground": "The Oval",
+        "location": "London"
+      }
+    }
+  },
+  {
+    "date": "10 June 2019",
+    "numberOfMatches": 1,
+    "games": {
+      "morning": {
+        "time": "10:30",
+        "teams": [
+          "South Africa",
+          "West Indies"
+        ],
+        "ground": "Rose Bowll",
+        "location": "Southampton"
+      }
+    }
+  },
+  {
+    "date": "11 June 2019",
+    "numberOfMatches": 1,
+    "games": {
+      "morning": {
+        "time": "10:30",
+        "teams": [
+          "Bangladesh",
+          "Sri Lanka"
+        ],
+        "ground": "Bristol County Ground",
+        "location": "Bristol"
+      }
+    }
+  },
+  {
+    "date": "12 June 2019",
+    "numberOfMatches": 1,
+    "games": {
+      "morning": {
+        "time": "10:30",
+        "teams": [
+          "Australia",
+          "Pakistan"
+        ],
+        "ground": "County Ground",
+        "location": "Taunton, Somerset"
+      }
+    }
+  },
+  {
+    "date": "13 June 2019",
+    "numberOfMatches": 1,
+    "games": {
+      "morning": {
+        "time": "10:30",
+        "teams": [
+          "India",
+          "New Zealand"
+        ],
+        "ground": "Trent Bridge",
+        "location": "Nottingham"
+      }
+    }
+  },
+  {
+    "date": "14 June 2019",
+    "numberOfMatches": 1,
+    "games": {
+      "morning": {
+        "time": "10:30",
+        "teams": [
+          "England",
+          "West Indies"
+        ],
+        "ground": "Rose Bowl",
+        "location": "Southampton"
+      }
+    }
+  },
+  {
+    "date": "15 June 2019",
+    "numberOfMatches": 2,
+    "games": {
+      "morning": {
+        "time": "10:30",
+        "teams": [
+          "Sri Lanka",
+          "Australia"
+        ],
+        "ground": "The Oval",
+        "location": "London"
+      },
+      "afternoon": {
+        "time": "13:30",
+        "teams": [
+          "South Africa",
+          "Afghanistan"
+        ],
+        "ground": "Sophia Gardens",
+        "location": "Cardiff"
+      }
+    }
+  },
+  {
+    "date": "16 June 2019",
+    "numberOfMatches": 1,
+    "games": {
+      "morning": {
+        "time": "10:30",
+        "teams": [
+          "India",
+          "Pakistan"
+        ],
+        "ground": "Old Trafford",
+        "location": "Manchester"
+      }
+    }
+  },
+  {
+    "date": "17 June 2019",
+    "numberOfMatches": 1,
+    "games": {
+      "morning": {
+        "time": "10:30",
+        "teams": [
+          "West Indies",
+          "Bangladesh"
+        ],
+        "ground": "County Ground",
+        "location": "Taunton, Somerset"
+      }
+    }
+  },
+  {
+    "date": "18 June 2019",
+    "numberOfMatches": 1,
+    "games": {
+      "morning": {
+        "time": "10:30",
+        "teams": [
+          "England",
+          "Afghanistan"
+        ],
+        "ground": "Old Trafford",
+        "location": "Manchester"
+      }
+    }
+  },
+  {
+    "date": "19 June 2019",
+    "numberOfMatches": 1,
+    "games": {
+      "morning": {
+        "time": "10:30",
+        "teams": [
+          "New Zealand",
+          "South Africa"
+        ],
+        "ground": "Edgbaston",
+        "location": "Birmingham"
+      }
+    }
+  },
+  {
+    "date": "20 June 2019",
+    "numberOfMatches": 1,
+    "games": {
+      "morning": {
+        "time": "10:30",
+        "teams": [
+          "Australia",
+          "Bangladesh"
+        ],
+        "ground": "Trent Bridge",
+        "location": "Nottingham"
+      }
+    }
+  },
+  {
+    "date": "21 June 2019",
+    "numberOfMatches": 1,
+    "games": {
+      "morning": {
+        "time": "10:30",
+        "teams": [
+          "England",
+          "Sri Lanka"
+        ],
+        "ground": "Headingley",
+        "location": "Leeds"
+      }
+    }
+  },
+  {
+    "date": "22 June 2019",
+    "numberOfMatches": 2,
+    "games": {
+      "morning": {
+        "time": "10:30",
+        "teams": [
+          "India",
+          "Afghanistan"
+        ],
+        "ground": "Rose Bowl",
+        "location": "Southampton"
+      },
+      "afternoon": {
+        "time": "13:30",
+        "teams": [
+          "West Indies",
+          "New Zealand"
+        ],
+        "ground": "Old Trafford",
+        "location": "Manchester"
+      }
+    }
+  },
+  {
+    "date": "23 June 2019",
+    "numberOfMatches": 1,
+    "games": {
+      "morning": {
+        "time": "10:30",
+        "teams": [
+          "Pakistan",
+          "South Africa"
+        ],
+        "ground": "Lord's",
+        "location": "London"
+      }
+    }
+  },
+  {
+    "date": "24 June 2019",
+    "numberOfMatches": 1,
+    "games": {
+      "morning": {
+        "time": "10:30",
+        "teams": [
+          "Bangladesh",
+          "Afghanistan"
+        ],
+        "ground": "Rose Bowl",
+        "location": "Southampton"
+      }
+    }
+  },
+  {
+    "date": "25 June 2019",
+    "numberOfMatches": 1,
+    "games": {
+      "morning": {
+        "time": "10:30",
+        "teams": [
+          "England",
+          "Australia"
+        ],
+        "ground": "Lord's",
+        "location": "London"
+      }
+    }
+  },
+  {
+    "date": "26 June 2019",
+    "numberOfMatches": 1,
+    "games": {
+      "morning": {
+        "time": "10:30",
+        "teams": [
+          "New Zealand",
+          "Pakistan"
+        ],
+        "ground": "Edgbaston",
+        "location": "Birmingham"
+      }
+    }
+  },
+  {
+    "date": "27 June 2019",
+    "numberOfMatches": 1,
+    "games": {
+      "morning": {
+        "time": "10:30",
+        "teams": [
+          "West Indies",
+          "India"
+        ],
+        "ground": "Old Trafford",
+        "location": "Manchester"
+      }
+    }
+  },
+  {
+    "date": "28 June 2019",
+    "numberOfMatches": 1,
+    "games": {
+      "morning": {
+        "time": "10:30",
+        "teams": [
+          "Sri Lanka",
+          "South Africa"
+        ],
+        "ground": "Riverside Ground",
+        "location": "Chester-le-Street, Durham"
+      }
+    }
+  },
+  {
+    "date": "29 June 2019",
+    "numberOfMatches": 2,
+    "games": {
+      "morning": {
+        "time": "10:30",
+        "teams": [
+          "Pakistan",
+          "Afghanistan"
+        ],
+        "ground": "Headingley",
+        "location": "Leeds"
+      },
+      "afternoon": {
+        "time": "13:30",
+        "teams": [
+          "New Zealand",
+          "Australia"
+        ],
+        "ground": "Lord's",
+        "location": "London"
+      }
+    }
+  },
+  {
+    "date": "30 June 2019",
+    "numberOfMatches": 1,
+    "games": {
+      "morning": {
+        "time": "10:30",
+        "teams": [
+          "England",
+          "India"
+        ],
+        "ground": "Edgbaston",
+        "location": "Birmingham"
+      }
+    }
+  },
+  {
+    "date": "1 July 2019",
+    "numberOfMatches": 1,
+    "games": {
+      "morning": {
+        "time": "10:30",
+        "teams": [
+          "Sri Lanka",
+          "West Indies"
+        ],
+        "ground": "Riverside Ground",
+        "location": "Chester-le-Street, Durham"
+      }
+    }
+  },
+  {
+    "date": "2 July 2019",
+    "numberOfMatches": 1,
+    "games": {
+      "morning": {
+        "time": "10:30",
+        "teams": [
+          "Bangladesh",
+          "India"
+        ],
+        "ground": "Edgbaston",
+        "location": "Birmingham"
+      }
+    }
+  },
+  {
+    "date": "3 July 2019",
+    "numberOfMatches": 1,
+    "games": {
+      "morning": {
+        "time": "10:30",
+        "teams": [
+          "England",
+          "Zealand"
+        ],
+        "ground": "Riverside Ground",
+        "location": "Chester-le-Street, Durham"
+      }
+    }
+  },
+  {
+    "date": "4 July 2019",
+    "numberOfMatches": 1,
+    "games": {
+      "morning": {
+        "time": "10:30",
+        "teams": [
+          "Afghanistan",
+          "West Indies"
+        ],
+        "ground": "Headingley",
+        "location": "Leeds"
+      }
+    }
+  },
+  {
+    "date": "5 July 2019",
+    "numberOfMatches": 1,
+    "games": {
+      "morning": {
+        "teams": [
+          "Pakistan",
+          "Bangladesh"
+        ],
+        "ground": "Lord's",
+        "location": "London"
+      }
+    }
+  },
+  {
+    "date": "6 July 2019",
+    "numberOfMatches": 2,
+    "games": {
+      "morning": {
+        "time": "10:30",
+        "teams": [
+          "Sri Lanka",
+          "India"
+        ],
+        "ground": "Headingley",
+        "location": "Leeds"
+      },
+      "afternoon": {
+        "time": "13:30",
+        "teams": [
+          "Australia",
+          "South Africa"
+        ],
+        "ground": "Old Trafford",
+        "location": "Manchester"
+      }
+    }
+  },
+  {
+    "date": "9 July 2019",
+    "numberOfMatches": 1,
+    "games": {
+      "morning": {
+        "time": "10:30",
+        "teams": [
+          "Semi finalist 1",
+          "Semi finalist 4"
+        ],
+        "ground": "Old Trafford",
+        "location": "Manchester"
+      }
+    }
+  },
+  {
+    "date": "10 July 2019",
+    "numberOfMatches": 1,
+    "games": {
+      "morning": {
+        "time": "10:30",
+        "teams": [
+          "Semi finalist 2",
+          "Semi finalist 3"
+        ],
+        "ground": "Edgbaston",
+        "location": "Birmingham"
+      }
+    }
+  },
+  {
+    "date": "14 July 2019",
+    "numberOfMatches": 1,
+    "games": {
+      "morning": {
+        "time": "10:30",
+        "teams": [
+          "Finalist 1",
+          "Finalist 2"
+        ],
+        "ground": "Lord's",
+        "location": "London"
+      }
+    }
+  }
+]

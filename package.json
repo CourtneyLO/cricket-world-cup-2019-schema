@@ -1,0 +1,31 @@
+{
+  "name": "cricket-world-cup",
+  "version": "1.0.0",
+  "description": "All you need to know about the cricket world cup 2019",
+  "main": "app.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "dependencies": {
+    "express": "^4.16.4",
+    "lodash.difference": "^4.5.0"
+  },
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^6.0.2"
+  },
+  "scripts": {
+    "test": "mocha --recursive --exit --reporter spec test/ "
+  },
+  "keywords": [
+    "cricket",
+    "world",
+    "cup",
+    "fixtures",
+    "results",
+    "2019"
+  ],
+  "author": "Courtney Osborn",
+  "license": "ISC"
+}
